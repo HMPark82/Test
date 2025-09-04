@@ -1,0 +1,15 @@
+{
+  "name": "bitcoin-price-db-app",
+  "version": "1.0.0",
+  "description": "A simple application to fetch and store Bitcoin prices in a database.",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.1",
+    "mongoose": "^5.10.9"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}
